@@ -1,0 +1,4 @@
+sistemabienes
+=============
+
+activos fijos
